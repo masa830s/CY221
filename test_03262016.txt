@@ -1,68 +1,85 @@
-﻿-﻿第１章　イタリアン
- -
- -(1)リストランテ ラ・リサータ 【ホテルグランヴィア京都】  
- -Address: 〒600-8216 Kyoto Prefecture, Kyoto 下京区烏丸通塩小路下ル JR京都駅中央口
- -Phone:075-342-5522
- -Hours: Open today · 11:30AM–4PM, 5:30–10:30PM
- -
- -(2)THE SODOH HIGASHIYAMA KYOTO ザ・ソウドウ
- -4.4　35 Google reviews 
- -Address: 〒605-0827 Kyoto Prefecture, Kyoto, 東山区八坂通下河原東入八坂上町366
- -Phone:075-541-3331
- -Hours: Open today · 5:30–11PM
- -
- -(3)京都 ネーゼ 
- -4.1　6 Google reviews 
- -Address: 〒604-8002 Kyoto Prefecture, Kyoto 中京区三条木屋町上ル三軒目 三条木屋町ビルⅡ ３Ｆ
- -Phone:075-212-2129
- -Hours: Open today · 6–11PM
- -
- -(4)ITALIAN QUATRO 京都駅前店  
- -3.6　5 Google reviews
- -Address: 〒600-8216 Kyoto Prefecture, Kyoto, 下京区塩小路通烏丸西入東塩小路町６１４
- -Phone:075-353-3777
- -Hours: Closing soon · 11AM–3PM, 5PM–12AM
- -
- -(5)The Kitchen Salvatore Cuomo
- -4.1　8 Google reviews
- -Located in: JR Kyoto Isetan
- -Address: 〒600-8555 京都府京都市下京区烏丸通塩小路下ル東塩小路町
- -Phone:075-365-7765
- -
- -
- -(6)伊酒場 伊晃庵  
- -Address: 〒600-8233 京都府京都市下京区 油小路通木津屋橋下る北不動堂町566
- -Phone:075-344-9077
- -Hours: Open today · 11:30AM–2PM, 5:30PM–12AM
- -
- -
- -(7)IL GHIOTTONE RISTORANTE  
- -4.0　12 Google reviews
- -Address: 〒605-0827 Kyoto Prefecture, Kyoto, 東山区八坂上町３８８−１
- -Phone:075-532-2550
- -
- -(8)やまぐち  
- -Address: 〒605-0074 Kyoto Prefecture, Kyoto, 東山区祇園町南側５７０−１８５
- -Phone:075-708-7183
- -
- -(9)trattoria sette  
- -4.1　5 Google reviews
- -Price unavailable
- -Located in: Hyatt Regency Kyoto Hotel
- -Address: 〒605-0941 Kyoto Prefecture, Kyoto, 東山区三十三間堂廻り644番地2
- -Phone:075-541-3204
- -Hours: Open today · 11AM–10PM
- -
- -(10)リストランテ 美郷  
- -4.1　5 Google reviews
- -Address: 〒600-8079 京都府京都市下京区 堺町通松原下ル鍛冶屋町246-2
- -Phone:075-351-0098
- -Hours: Open today · 11:30AM–2PM, 5:30–9:30PM
- -
- -
- -
- -第２章　和食
- -
- -第３章　フレンチ
- -
- -第４章　中華
+﻿第１章　イタリアン
+ 
+ (1)リストランテ ラ・リサータ 【ホテルグランヴィア京都】 ?
+ Address: 〒600-8216 Kyoto Prefecture, Kyoto 下京区烏丸通塩小路下ル JR京都駅中央口
+ Phone:075-342-5522
+ Hours: Open today ・ 11:30AM?4PM, 5:30?10:30PM
+ 
+ (2)THE SODOH HIGASHIYAMA KYOTO ザ・ソウドウ
+ 4.4　35 Google reviews?
+ Address: 〒605-0827 Kyoto Prefecture, Kyoto, 東山区八坂通下河原東入八坂上町366
+ Phone:075-541-3331
+ Hours: Open today ・ 5:30?11PM
+ 
+ (3)京都 ネーゼ 
+ 4.1　6 Google reviews?
+ Address: 〒604-8002 Kyoto Prefecture, Kyoto 中京区三条木屋町上ル三軒目 三条木屋町ビルⅡ ３Ｆ
+ Phone:075-212-2129
+ Hours: Open today ・ 6?11PM
+ 
+ (4)ITALIAN QUATRO 京都駅前店 ?
+ 3.6　5 Google reviews
+ Address: 〒600-8216 Kyoto Prefecture, Kyoto, 下京区塩小路通烏丸西入東塩小路町６１４
+ Phone:075-353-3777
+ Hours: Closing soon ・ 11AM?3PM, 5PM?12AM
+ 
+ (5)The Kitchen Salvatore Cuomo
+ 4.1　8 Google reviews
+ Located in: JR Kyoto Isetan
+ Address: 〒600-8555 京都府京都市下京区烏丸通塩小路下ル東塩小路町
+ Phone:075-365-7765
+ 
+ 
+ (6)伊酒場 伊晃庵 ?
+ Address: 〒600-8233 京都府京都市下京区 油小路通木津屋橋下る北不動堂町566
+ Phone:075-344-9077
+ Hours: Open today ・ 11:30AM?2PM, 5:30PM?12AM
+ 
+ 
+ (7)IL GHIOTTONE RISTORANTE ?
+ 4.0　12 Google reviews
+ Address: 〒605-0827 Kyoto Prefecture, Kyoto, 東山区八坂上町３８８?１
+ Phone:075-532-2550
+ 
+ (8)やまぐち ?
+ Address: 〒605-0074 Kyoto Prefecture, Kyoto, 東山区祇園町南側５７０?１８５
+ Phone:075-708-7183
+ 
+ (9)trattoria sette ?
+ 4.1　5 Google reviews
+ Price unavailable
+ Located in: Hyatt Regency Kyoto Hotel
+ Address: 〒605-0941 Kyoto Prefecture, Kyoto, 東山区三十三間堂廻り644番地2
+ Phone:075-541-3204
+ Hours: Open today ・ 11AM?10PM
+ 
+ (10)リストランテ 美郷 ?
+ 4.1　5 Google reviews
+ Address: 〒600-8079 京都府京都市下京区 堺町通松原下ル鍛冶屋町246-2
+ Phone:075-351-0098
+ Hours: Open today ・ 11:30AM?2PM, 5:30?9:30PM
+ 
+ 
+ 
+ 第２章　和食
+
+【八代目儀兵衛】
+[駅]祇園四条 [料]日本料理、親子丼、和食のご飯・おかず、丼もの [ランチ]-2000円 [ディナー]-6000円 [口コミ数]58件
+京都の料理屋さん。お米が美味しい！お米屋さんが開業したお店。
+料理に合わせて最適なお米を選んでいます。しかし白米が美味しい！香り、舌触り、甘みを感じながら日本人で良かったと認識しました。
+
+【西陣 鳥岩楼】
+[駅]今出川 [料]日本料理、鍋、親子丼、水炊き、丼もの、鶏料理 [ランチ]-1000円 [ディナー]-8000円 [口コミ数]48件
+西陣の町家を使った老舗鶏料理店。当初は祗園で創業したが、昭和20年に西陣に移転。
+新鮮な鶏ガラ、アラを井戸水でじっくりと煮込んで作ったスープと、ゆっくりと下ゆでした鶏肉で味わう水炊きが美味しい。
+
+【嵯峨とうふ 稲】
+[駅]嵐電嵯峨 [料]日本料理、湯豆腐、ソフトクリーム、豆腐料理・湯葉料理 [ランチ]-2000円 [ディナー]-2000円 [口コミ数]39件
+湯葉を練りこんださっぱりソフトクリーム♪ 
+嵐山にある、豆腐や湯葉料理が楽しめるお店ですが、ソフトクリーム屋さんも併設されていて食べ歩き出来ます。
+
+
+
+ 第３章　フレンチ
+ 
+ 第４章　中華
